@@ -1,3 +1,5 @@
+# Blogging Platform Application
+
 ## Overview
 This repository contains the source code and related resources for a modern and feature-rich blogging platform application. The application provides a user-friendly interface for bloggers to create, manage, and publish their content online.
 
