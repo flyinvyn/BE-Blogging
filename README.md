@@ -7,8 +7,6 @@ This repository contains the source code and related resources for a modern and 
 + **User Authentication**: Secure user authentication system allowing bloggers to register, log in, and manage their accounts.
 + **Create and Edit Article**: Write and edit blog posts using a rich text editor with various formatting options.
 + **Search Functionality**: Implement a search feature to help users quickly find relevant content.
-+ **Responsive Design**: Ensure the application is accessible and usable on various devices, including desktops, tablets, and smartphones.
-
 ## Technologies Used
 
 ### Backend:
