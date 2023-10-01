@@ -38,4 +38,4 @@ npm run dev
 
 :rocket: [`Backend`](https://github.com/flyinvyn/BE-Blogging)
 
-:rocket: [`Frontend Hiring App`](https://github.com/flyinvyn/FE-Blogging)
+:rocket: [`Frontend`](https://github.com/flyinvyn/FE-Blogging)
